@@ -81,3 +81,5 @@ API anahtarını kesinlikle paylaşma
 Lisans
 
 Bu proje eğitim amaçlıdır.
+
+https://roadmap.sh/projects/tmdb-cli
